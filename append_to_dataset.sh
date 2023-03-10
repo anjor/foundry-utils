@@ -61,3 +61,5 @@ function addAllJsonFiles {
     do addFile $file
   done
 }
+
+addAllJsonFiles
